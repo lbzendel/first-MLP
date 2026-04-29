@@ -8,6 +8,7 @@ MLP Class with random initialization of weights:
   - forward_push()
   - backprop()
   - train()
+
 Helpers:
   - BCE_Loss()
   - calculate_F1()
