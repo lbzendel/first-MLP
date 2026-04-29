@@ -15,6 +15,6 @@ Helpers:
   - standardize()
 
 ## Usage
-''' 
+```
 python3 main.py <dataset> <hidden_units> <epochs> <learning_rate> 
-'''
+```
